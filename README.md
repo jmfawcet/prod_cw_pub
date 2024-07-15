@@ -1,1 +1,3 @@
-# prod_cw_pub
+# Generation (Not Production) Improves the Fidelity of Visual Representations in Picture Naming
+
+This repository contains data and scripts used for the paper "Generation (Not Production) Improves the Fidelity of Visual Representations in Picture Naming" by Whitridge et al. These scripts are not entirely complete, as the processing and analysis process was quite complex and many models were auditioned (all of which produced the same conclusions). However, we have done our best to distill everything to what is essential to understand the paper and the raw data. For further information, contact Dr. Jonathan Fawcett (jfawcett at mun.ca). Also, be warned, the mixture models can take a very long time to fit, especially if full random effect structure is considered.
